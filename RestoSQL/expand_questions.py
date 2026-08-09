@@ -7,9 +7,9 @@ import jieba
 import nltk
 
 # --- 配置参数 ---
-CSV_PATH = "updated.csv"
-OUTPUT_DIR = "./dataset/my_spider_dataset"
-DB_ID = "restaurant_db"
+CSV_PATH = ""
+OUTPUT_DIR = ""
+DB_ID = ""
 
 # 1. 标签映射表 (27个标准标签，每个对应3个口语化变体)
 # 请根据你的实际需求修改这些变体文字
